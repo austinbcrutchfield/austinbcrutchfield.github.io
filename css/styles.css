@@ -19,7 +19,7 @@ img{
 }
 
 nav {
-    background-color: ##719fc5;
+    background-color: #719fc5;
     position: fixed;
     z-index: 1;
     width: 100%;
@@ -132,7 +132,7 @@ figcaption {
 }
 
 .blue {
-  background-color: #DBEBF4;
+  background-color: #719fc5;
 }
 
 .project .button {
